@@ -1716,7 +1716,7 @@ end
 
 dupeCrucifix.Event:Connect(function(time, entityRoot)
 
-    local Cross = game:GetObjects("rbxassetid://11905731007{")[1]
+    local Cross = game:GetObjects("rbxassetid://11656343590{")[1]
 
     Cross.Parent = workspace
 
